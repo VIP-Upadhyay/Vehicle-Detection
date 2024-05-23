@@ -140,7 +140,7 @@ Validated under different traffic conditions to ensure wide applicability.
 
 Ensure you have the following dependencies installed on your system:
 
-* **Java**: `version x.y.z`
+* **Java**: "17.0.1"
 
 ### ⚙️ Installation
 
